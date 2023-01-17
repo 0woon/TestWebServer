@@ -1,8 +1,10 @@
 {
     "java.project.sourcePaths": [
-        "lib"
+        "lib",
+        "main"
     ],
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
-    ]
+    ],
+    "java.dependency.packagePresentation": "hierarchical"
 }
