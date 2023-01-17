@@ -73,7 +73,7 @@ public class main {
     public void start() {
         server.start();
     }
-    // 여긴 테스트입니다
+    // 여긴 테스트입니다~~~
     /**
      * 서버 중지
      */
